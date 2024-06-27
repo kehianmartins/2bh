@@ -4,7 +4,7 @@ public class Password {
 	
 	private String contraseña;
 	private int longitud;
-	private final static int LARGO = 8;
+	private final static int LARGO = 800;
 	
 	
 	public Password() {
